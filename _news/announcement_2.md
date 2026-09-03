@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Our collaborative work on Cross-Cultural Translation is accepted at LREC 2026.  Available on [arXiv](https://www.arxiv.org/abs/2510.25967).
+🎉 Our collaborative work on Cross-Cultural Translation is accepted at LREC 2026.  Available [here](https://aclanthology.org/2026.lrec-1.297/).
